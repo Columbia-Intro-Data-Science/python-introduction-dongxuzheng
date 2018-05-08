@@ -1,2 +1,2 @@
 # python-introduction-dongxuzheng
-python-introduction-dongxuzheng created by GitHub Classroom
+Final project can be checked in final_project repository.
