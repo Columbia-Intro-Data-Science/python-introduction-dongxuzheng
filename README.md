@@ -1,2 +1,3 @@
 # python-introduction-dongxuzheng
-Final project can be checked in final_project repository.
+Three homeworks
+One final project- Heart Disease Detection
