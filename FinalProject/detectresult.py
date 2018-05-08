@@ -10,7 +10,7 @@ def predict(df:DataFrame):
     pickle_in = open('pickledata/logres.pickle','rb')
     lr,labelencoders = pickle.load(pickle_in)
     for i,col in enumerate(df.columns):
-        # 之前的strlabel的问题会导致这里的错误
+        
         v = df[col]
         labelencoder = labelencoders[i]
         try:
