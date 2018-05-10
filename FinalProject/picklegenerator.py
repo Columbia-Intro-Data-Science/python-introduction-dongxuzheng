@@ -33,7 +33,7 @@ LogReg.fit(X, y)
 yy = LogReg.predict(X)
 
 
-# Save the trained decision tree into a pickle file
+# Save the trained logistic regression model into a pickle file
 with open('pickledata/logres.pickle','wb') as f:
 
     pickle.dump((LogReg,labelencoders),f)
